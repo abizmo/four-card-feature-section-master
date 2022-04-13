@@ -141,6 +141,7 @@ body {
 
 .card {
   flex-direction: column;
+  background-color: white;
   border-radius: .5rem;
   box-shadow: 0 .5rem 1rem hsl( var( --clr-neutral-600) / .25);
   overflow: hidden;
