@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/abizmo/four-card-feature-section-master](https://github.com/abizmo/four-card-feature-section-master)
+- Live Site URL: [https://abizmo.github.io/four-card-feature-section-master/](https://abizmo.github.io/four-card-feature-section-master/)
 
 ## My process
 
